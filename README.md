@@ -7,4 +7,4 @@ List of functions used in notebooks.
 4. CentTeltrack.py:
 Centromere-Telomere track generation function.
 5. Figures created in GraphPad:
-Fig 1-d,e,f
+Fig 1-d,e,f; Fig 3-b; Fig 5-b; Fig 6-d; Fig 7-c
