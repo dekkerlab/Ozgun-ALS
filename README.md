@@ -1,8 +1,8 @@
-HiC_Preliminary_analyses.ipynb:
+1. HiC_Preliminary_analyses.ipynb:
 This notebook was used to perform initial HiC analysis on mcools. It includes EV track generation, saddle plots, centromere-telomere plots, expected calculation, and insulation track generation.
-sample.py: 
+2. sample.py: 
 Sample names used in the notebooks.
-supp_lib.py:
+3. supp_lib.py:
 List of functions used in notebooks.
-CentTeltrack.py:
+4. CentTeltrack.py:
 Centromere-Telomere track generation function.
